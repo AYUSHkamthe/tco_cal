@@ -16,7 +16,6 @@ Scenario Planning
 
 **Usage**
 
-Clone the Repository:git clone https://github.com/Anushka-Pote/TCO-Cloud-Calcy
 
 Install Dependencies: cd TCO-Cloud-Calcy
                       npm install
